@@ -1,0 +1,15 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+*/target/*
+target
+
+# Eclipse project files
+**/.classpath
+**/.project
+**/.settings
+
+# VSCode project files
+.vscode/
