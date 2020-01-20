@@ -1,4 +1,4 @@
-# Yapily Code Challenge
+# Yapily Code Challenge - Samuel Catalano
 Technical Code of Yapily:
 
 ### First steps:
