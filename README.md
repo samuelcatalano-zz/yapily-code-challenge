@@ -8,6 +8,16 @@ Technical Code of Yapily:
 ### How to compile application:
 > `mvn clean install`
 
+### Stack:
+| Technology | Version |
+|--|--|
+| **Java** | 1.8.0_131 |
+| **Spring Boot** | 2.2.3.RELEASE |
+| **Project Lombok** | Stable |
+| **Springfox Swagger 2** | Stable |
+| **Spring Security** | 2.2.3.RELEASE |
+| **Spring Oauth2** | Autoconfigure
+
 ### How to run the application:
 > IDE (IntelliJ, Eclipse, NetBeans):
 - Importing the project as Maven project on your favourite IDE.
@@ -19,7 +29,7 @@ Technical Code of Yapily:
 
 ### Acessing Swagger | Open API:
 Once with the application running:
-[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+http://localhost:8080/swagger-ui.html
 
 ![enter image description here](https://i.imgur.com/hZEH9kt.png)
 
